@@ -7,7 +7,9 @@
 
 main {
     width: 100%;
-    background: linear-gradient(116.82deg, #B70085 0%, #FE0102 100%);
+    /* background: linear-gradient(116.82deg, #B70085 0%, #FE0102 100%); */
+    /* background: linear-gradient(116.82deg, rgba(183, 0, 133, 0.78) 0%, rgba(254, 1, 2, 0.84) 100%); */
+    background: linear-gradient(116.82deg, #B61189 0%, #E41C1D 100%);
     color: white;
     height: 100%;
     position: absolute;
@@ -25,7 +27,7 @@ main {
 .Button {
     padding: .8rem 1.3rem;
     cursor: pointer;
-    background: linear-gradient(90deg, #EB0125 0%, rgba(193, 1, 114, 0.69) 100%);
+    background: linear-gradient(90deg, #E41C1D 0%, #B61189 100%);
     border-radius: 10px;
     width: 340px;
     margin: 20px auto 20px auto;
